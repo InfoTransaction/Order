@@ -1,2 +1,3 @@
  Order
 Details
+Invoice
